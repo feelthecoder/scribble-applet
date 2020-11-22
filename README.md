@@ -4,10 +4,10 @@ This is an **Applet** build using Java. It is simple canvas like project where y
 
 It supports following color option for pen.
 
--RED
--BLACK
--YELLOW
--GREEN
+- RED
+- BLACK
+- YELLOW
+- GREEN
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,8 +29,8 @@ You need to create a simple html file and use applet element. For reference you 
       
 ##### Sample Code
 
-<html>  
-<head>  
+ <html>  
+ <head>  
   <title>Applet Tag</title>  
  </head>  
  <body>  
@@ -38,8 +38,8 @@ You need to create a simple html file and use applet element. For reference you 
     <applet code="ScribbleApplet.class" align="right" height="200" width="300">  
      <b>Sorry! you need Java to see this</b>  
      </applet>  
-  </body>  
-</html>  
+    </body>  
+     </html>  
          
 -----------
            
