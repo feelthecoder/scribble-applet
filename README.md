@@ -17,7 +17,7 @@ You can run this applet by any applet viewer inbuilt in IDE's or you can also ru
 
 ## How to run using web browser
 
-You need to create a simple html file and use <applet>...</applet> element. For reference you can take help of online available resources.
+You need to create a simple html file and use **<applet>...</applet>** element. For reference you can take help of online available resources.
 
 #### View of Scribble Applet
 
