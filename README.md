@@ -29,21 +29,21 @@ You need to create a simple html file and use applet element. For reference you 
       
 ##### Sample Code
 
- '<html>  
-    <head>  
-       <title>
-        Applet Tag
-       </title>  
-    </head>  
-    <body>  
-       <p>
-        Example of Applet Tag
-       </p>  
-       <applet code="ScribbleApplet.class" align="right" height="200" width="300">  
-          <b>Sorry! you need Java to see this</b>  
-       </applet>  
-    </body>  
-  </html> ' 
+ <html>  
+  <head>  
+   <title>
+    Applet Tag
+   </title>  
+  </head>  
+  <body>  
+   <p>
+    Example of Applet Tag
+   </p>  
+   <applet code="ScribbleApplet.class" align="right" height="200" width="300">  
+   <b>Sorry! you need Java to see this</b>  
+   </applet>  
+  </body>  
+ </html>  
          
 -----------
            
