@@ -29,7 +29,7 @@ You need to create a simple html file and use applet element. For reference you 
       
 ##### Sample Code
 
- '<html>  
+ ```<html>  
   <head>  
    <title>
     Applet Tag
@@ -43,7 +43,7 @@ You need to create a simple html file and use applet element. For reference you 
    <b>Sorry! you need Java to see this</b>  
    </applet>  
   </body>  
- </html>'  
+ </html>```
          
 -----------
            
